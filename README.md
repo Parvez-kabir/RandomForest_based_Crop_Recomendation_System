@@ -7,10 +7,13 @@ https://randomforestbasedcroprecomendationsystem-snpx6y9fzo6ag6uxg4cln.streamlit
 Go to this link or copy and pest in your Browser to Enter the website.
 
 
-<img width="1896" height="826" alt="image" src="https://github.com/user-attachments/assets/3502fbdd-c5f4-42af-866d-dc96cc3f877c" />
+<img width="1871" height="846" alt="image" src="https://github.com/user-attachments/assets/e90937ea-6ffd-4539-92f0-75226e114487" />
 
 
-<img width="1596" height="841" alt="image" src="https://github.com/user-attachments/assets/699b8f9a-6339-4b0c-aafc-9ff1284b32a9" />
+<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/6be62a74-7312-41ea-85df-e7e9cc5786a2" />
+
+
+<img width="1907" height="906" alt="image" src="https://github.com/user-attachments/assets/536593e9-dc97-43e1-ba35-ffa98e3cbb8b" />
 
 
 
