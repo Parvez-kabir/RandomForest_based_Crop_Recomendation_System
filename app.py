@@ -1,3 +1,5 @@
+!pip install joblib plotly
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -116,3 +118,4 @@ if st.sidebar.button("Predict Crop"):
     # -----------------------------
     with st.expander("See Detailed Confidence Table"):
         st.dataframe(prob_df.reset_index(drop=True))
+
