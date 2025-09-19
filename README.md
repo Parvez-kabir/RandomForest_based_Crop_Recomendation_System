@@ -5,3 +5,6 @@ Website Link is here
 https://randomforestbasedcroprecomendationsystem-snpx6y9fzo6ag6uxg4cln.streamlit.app/
 
 Go to this link or copy and pest in your Browser to Enter the website.
+
+
+<img width="1896" height="826" alt="image" src="https://github.com/user-attachments/assets/3502fbdd-c5f4-42af-866d-dc96cc3f877c" />
